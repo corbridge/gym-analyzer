@@ -1,0 +1,166 @@
+,date,hour,exercise,Serie 1,Serie 2,Serie 3,Serie 4,Serie 5,Serie 6,Serie 7,Serie 8,Datetime
+0,2023-12-13,7:26 p. m.,Bench press,"{'weight': '0 lb', 'reps': '20'}","{'weight': '10 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '12'}","{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '16'}",2023-12-13
+1,2023-12-13,7:46 p. m.,Bench press ,"{'weight': '15 lb', 'reps': '20'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '15'}",,,,,,2023-12-13
+2,2023-12-13,8:01 p. m.,Bench press inclinado,"{'weight': '10 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '9'}","{'weight': '20 lb', 'reps': '8'}",,,,,2023-12-13
+3,2023-12-13,8:12 p. m.,Butterfly,"{'weight': '2 barra', 'reps': '21'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '10'}",,,,,2023-12-13
+4,2023-12-13,8:22 p. m.,Tricep pushdowns,"{'weight': '2 barra', 'reps': '15'}","{'weight': '3 barra', 'reps': '13'}","{'weight': '3 barra', 'reps': '12'}","{'weight': '3 barra', 'reps': '12'}",,,,,2023-12-13
+5,2023-12-13,8:30 p. m.,Overhead dumbell extension,"{'weight': '25 lb', 'reps': '11'}","{'weight': '25 lb', 'reps': '12'}","{'weight': '25 lb', 'reps': '11'}",,,,,,2023-12-13
+6,2023-12-13,8:39 p. m.,Overhead rope extension,"{'weight': '2 barras', 'reps': '11'}","{'weight': '3 barras', 'reps': '12'}","{'weight': '3 barras', 'reps': '10'}","{'weight': '3 barras', 'reps': '9'}",,,,,2023-12-13
+7,2023-12-15,8:35 p. m.,Jal,"{'weight': '3 barras', 'reps': '12'}","{'weight': '4 barras', 'reps': '12'}","{'weight': '4 barras', 'reps': '10'}","{'weight': '4 barras', 'reps': '10'}",,,,,2023-12-15
+8,2023-12-15,8:51 p. m.,Jal,"{'weight': '2 barra', 'reps': '12'}","{'weight': '2 barra', 'reps': '16'}","{'weight': '3 barra', 'reps': '10'}","{'weight': '3 barra', 'reps': '10'}",,,,,2023-12-15
+9,2023-12-15,9:10 p. m.,Jalo pecho horizontal m,"{'weight': '2 barra', 'reps': '12'}","{'weight': '2 barra', 'reps': '12'}","{'weight': '2 barra', 'reps': '12'}","{'weight': '2 barra', 'reps': '10'}",,,,,2023-12-15
+10,2023-12-15,9:18 p. m.,Jalo,"{'weight': '3 barra', 'reps': '15'}","{'weight': '4 barra', 'reps': '13'}","{'weight': '4 barra', 'reps': '13'}","{'weight': '4 barra', 'reps': '11'}",,,,,2023-12-15
+11,2023-12-15,9:26 p. m.,Jal,"{'weight': '2 barra', 'reps': '15'}","{'weight': '3 barra', 'reps': '10'}","{'weight': '3 barra', 'reps': '12'}","{'weight': '3 barra', 'reps': '15'}",,,,,2023-12-15
+12,2023-12-15,9:42 p. m.,Curl mancuerna ,"{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '11'}","{'weight': '15 lb', 'reps': '14'}",,,,,2023-12-15
+13,2023-12-15,9:55 p. m.,Curl mancuerna ,"{'weight': '20 lb', 'reps': '9'}","{'weight': '20 lb', 'reps': '9'}","{'weight': '20 lb', 'reps': '9'}","{'weight': '20 lb', 'reps': '8'}",,,,,2023-12-15
+14,2023-12-18,8:09 p. m.,Sentadilla m,"{'weight': '20 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '11'}","{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '13'}",,,,2023-12-18
+15,2023-12-18,8:29 p. m.,Press m,"{'weight': '50 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '11'}","{'weight': '50 lb', 'reps': '17'}",,,,,2023-12-18
+16,2023-12-18,8:41 p. m.,Esquitibiales,"{'weight': '3 barra', 'reps': '15'}","{'weight': '3 barra', 'reps': '13'}","{'weight': '3 barra', 'reps': '13'}","{'weight': '3 barra', 'reps': '12'}",,,,,2023-12-18
+17,2023-12-18,8:54 p. m.,Peso muerto,"{'weight': '20 lb', 'reps': '17'}","{'weight': '40 lb', 'reps': '10'}","{'weight': '40 lb', 'reps': '11'}","{'weight': '40 lb', 'reps': '10'}",,,,,2023-12-18
+18,2023-12-18,9:01 p. m.,Gemelos m,"{'weight': '3 barra', 'reps': '12'}","{'weight': '3 barra', 'reps': '13'}","{'weight': '3 barra', 'reps': '14'}",,,,,,2023-12-18
+19,2023-12-20,6:05 p. m.,Bench press,"{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '16'}","{'weight': '30 lb', 'reps': '15'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '10'}",,2023-12-20
+20,2023-12-20,6:38 p. m.,Bench press inclinado,"{'weight': '10 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '11'}",,,,,2023-12-20
+21,2023-12-20,7:04 p. m.,Tricep pushdowns ,"{'weight': '3 barra', 'reps': '20'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '13'}",,,,,2023-12-20
+22,2023-12-20,7:20 p. m.,Overhead dumbell extension,"{'weight': '20 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '13'}","{'weight': '25 lb', 'reps': '13'}","{'weight': '25 lb', 'reps': '11'}",,,,,2023-12-20
+23,2023-12-26,7:00 p. m.,Sentadilla m,"{'weight': '20 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '14'}","{'weight': '30 lb', 'reps': '12'}",,,,2023-12-26
+24,2023-12-26,7:25 p. m.,Press m,"{'weight': '50 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '13'}","{'weight': '50 lb', 'reps': '16'}","{'weight': '50 lb', 'reps': '14'}",,,,,2023-12-26
+25,2023-12-26,7:41 p. m.,Esquitibiales,"{'weight': '7 barra', 'reps': '11'}","{'weight': '7 barra', 'reps': '15'}","{'weight': '7 barra', 'reps': '12'}",,,,,,2023-12-26
+26,2023-12-26,8:13 p. m.,Peso muerto,"{'weight': '30 lb', 'reps': '15'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '16'}","{'weight': '40 lb', 'reps': '15'}",,,,,2023-12-26
+27,2023-12-28,5:35 p. m.,Bench press,"{'weight': '20 lb', 'reps': '17'}","{'weight': '30 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '13'}",,,,2023-12-28
+28,2023-12-28,6:08 p. m.,Bench press inclinado,"{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '11'}",,,,,2023-12-28
+29,2023-12-28,6:41 p. m.,Tricep pushdowns ,"{'weight': '3 barra', 'reps': '14'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '13'}",,,,,2023-12-28
+30,2023-12-28,6:41 p. m.,Overhead dumbell extension,"{'weight': '25 lb', 'reps': '14'}","{'weight': '25 lb', 'reps': '13'}","{'weight': '25 lb', 'reps': '12'}",,,,,,2023-12-28
+31,2023-12-30,12:10 p. m.,Jal,"{'weight': '3 barras', 'reps': '16'}","{'weight': '4 barras', 'reps': '11'}","{'weight': '4 barras', 'reps': '14'}","{'weight': '4 barras', 'reps': '13'}",,,,,2023-12-30
+32,2023-12-30,12:32 p. m.,Jal,"{'weight': '1 barra', 'reps': '14'}","{'weight': '1 barra', 'reps': '14'}","{'weight': '1 barra', 'reps': '15'}","{'weight': '1 barra', 'reps': '15'}",,,,,2023-12-30
+33,2023-12-30,12:47 p. m.,Jalon pecho hor ambos,"{'weight': '2 barra', 'reps': '12'}","{'weight': '2 barra', 'reps': '15'}","{'weight': '2 barra', 'reps': '15'}",,,,,,2023-12-30
+34,2023-12-30,1:21 p. m.,Jal,"{'weight': '35 lb', 'reps': '10'}","{'weight': '35 lb', 'reps': '12'}",,,,,,,2023-12-30
+35,2023-12-30,1:41 p. m.,Curl mancuerna ,"{'weight': '15 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '9'}","{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '9'}",,,,,2023-12-30
+36,2023-12-30,1:53 p. m.,Curl mancuerna ,"{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '9'}","{'weight': '20 lb', 'reps': '10'}",,,,,,2023-12-30
+37,2024-01-05,8:48 p. m.,Jal,"{'weight': '85 lb', 'reps': '12'}","{'weight': '85 lb', 'reps': '10'}","{'weight': '85 lb', 'reps': '10'}","{'weight': '85 lb', 'reps': '11'}",,,,,2024-01-05
+38,2024-01-05,9:10 p. m.,Jalon pecho hor,"{'weight': '25 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '13'}","{'weight': '25 lb', 'reps': '13'}",,,,,2024-01-05
+39,2024-01-05,9:32 p. m.,Jal,"{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '15'}","{'weight': '40 lb', 'reps': '14'}",,,,,2024-01-05
+40,2024-01-05,9:48 p. m.,Jal,"{'weight': '30 lb', 'reps': '15'}","{'weight': '40 lb', 'reps': '15'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '11'}","{'weight': '50 lb', 'reps': '15'}",,,,2024-01-05
+41,2024-01-05,10:01 p. m.,Curl mancuerna ,"{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '10'}",,,,,2024-01-05
+42,2024-01-05,10:15 p. m.,Curl mancuerna ,"{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '11'}",,,,,2024-01-05
+43,2024-01-08,7:19 p. m.,Sentadilla m,"{'weight': '30 lb', 'reps': '16'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '12'}",,,,2024-01-08
+44,2024-01-08,7:38 p. m.,Press m,"{'weight': '60 lb', 'reps': '13'}","{'weight': '60 lb', 'reps': '16'}","{'weight': '60 lb', 'reps': '20'}","{'weight': '60 lb', 'reps': '21'}",,,,,2024-01-08
+45,2024-01-08,8:14 p. m.,Peso muerto,"{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '10'}",,,,,2024-01-08
+46,2024-01-15,7:35 p. m.,Sentadilla m,"{'weight': '30 lb', 'reps': '16'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '13'}",,,,2024-01-15
+47,2024-01-15,7:50 p. m.,Press m,"{'weight': '70 lb', 'reps': '16'}","{'weight': '70 lb', 'reps': '17'}","{'weight': '70 lb', 'reps': '21'}",,,,,,2024-01-15
+48,2024-01-15,8:23 p. m.,Peso muerto,"{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '11'}","{'weight': '40 lb', 'reps': '11'}",,,,,2024-01-15
+49,2024-01-16,7:43 p. m.,Press hombro,"{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '13'}",,,,,2024-01-16
+50,2024-01-16,8:05 p. m.,Laterales,"{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '13'}",,,,,2024-01-16
+51,2024-01-16,8:16 p. m.,Frontal,"{'weight': '15 lb', 'reps': '11'}","{'weight': '15 lb', 'reps': '10'}","{'weight': '15 lb', 'reps': '8'}",,,,,,2024-01-16
+52,2024-01-16,8:29 p. m.,Curl bicep,"{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '10'}",,,,,,2024-01-16
+53,2024-01-16,8:42 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '12'}",,,,,,2024-01-16
+54,2024-01-17,7:50 p. m.,Bench press,"{'weight': '20 lb', 'reps': '17'}","{'weight': '30 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '10'}",,,,2024-01-17
+55,2024-01-17,8:04 p. m.,Bench press mancuerna,"{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '16'}",,,,,,2024-01-17
+56,2024-01-17,8:29 p. m.,Bench press inclinado,"{'weight': '20 lb', 'reps': '14'}","{'weight': '30 lb', 'reps': '10'}","{'weight': '30 lb', 'reps': '12'}","{'weight': '30 lb', 'reps': '11'}",,,,,2024-01-17
+57,2024-01-17,8:51 p. m.,Bench press inclinado mancuerna,"{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '12'}",,,,,,2024-01-17
+58,2024-01-17,9:06 p. m.,Tricep pushdowns,"{'weight': '3 barra', 'reps': '14'}","{'weight': '4 barra', 'reps': '13'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '11'}",,,,,2024-01-17
+59,2024-01-22,7:54 p. m.,Sentadilla m,"{'weight': '40 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '15'}",,,,,2024-01-22
+60,2024-01-22,8:11 p. m.,Press m,"{'weight': '70 lb', 'reps': '19'}","{'weight': '70 lb', 'reps': '19'}","{'weight': '70 lb', 'reps': '20'}","{'weight': '70 lb', 'reps': '21'}",,,,,2024-01-22
+61,2024-01-22,8:49 p. m.,Peso muerto,"{'weight': '40 lb', 'reps': '15'}","{'weight': '40 lb', 'reps': '14'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '13'}",,,,,2024-01-22
+62,2024-01-25,8:42 p. m.,Press hombro,"{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '14'}",,,,,2024-01-25
+63,2024-01-25,8:54 p. m.,Laterales,"{'weight': '15 lb', 'reps': '10'}","{'weight': '15 lb', 'reps': '11'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '14'}",,,,,2024-01-25
+64,2024-01-25,9:13 p. m.,Frontal,"{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '13'}",,,,,2024-01-25
+65,2024-01-25,9:26 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '13'}",,,,,,2024-01-25
+66,2024-01-25,9:42 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '11'}",,,,,,2024-01-25
+67,2024-01-25,9:52 p. m.,Curl bicep ,"{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '11'}",,,,,,2024-01-25
+68,2024-01-26,8:52 p. m.,Bench press,"{'weight': '20 lb', 'reps': '20'}","{'weight': '30 lb', 'reps': '16'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '12'}","{'weight': '40 lb', 'reps': '11'}",,,,2024-01-26
+69,2024-01-26,9:10 p. m.,Bench press mancuerna,"{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '17'}","{'weight': '20 lb', 'reps': '15'}",,,,,,2024-01-26
+70,2024-01-26,9:27 p. m.,Bench press inclinado,"{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '12'}","{'weight': '30 lb', 'reps': '13'}",,,,,,2024-01-26
+71,2024-01-26,9:39 p. m.,Bench press inclinado mancuerna,"{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '16'}",,,,,,2024-01-26
+72,2024-01-26,9:59 p. m.,Tricep pushdowns,"{'weight': '4 barra', 'reps': '14'}","{'weight': '4 barra', 'reps': '13'}",,,,,,,2024-01-26
+73,2024-01-29,8:40 p. m.,Sentadilla m,"{'weight': '40 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '12'}",,,,,2024-01-29
+74,2024-01-29,8:58 p. m.,Press m,"{'weight': '80 lb', 'reps': '16'}","{'weight': '80 lb', 'reps': '16'}","{'weight': '80 lb', 'reps': '17'}","{'weight': '80 lb', 'reps': '18'}",,,,,2024-01-29
+75,2024-01-29,9:28 p. m.,Peso muerto,"{'weight': '50 lb', 'reps': '13'}","{'weight': '50 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '12'}",,,,,2024-01-29
+76,2024-01-30,8:57 p. m.,Jal,"{'weight': '4 barra', 'reps': '18'}","{'weight': '4 barra', 'reps': '18'}","{'weight': '5 barra', 'reps': '12'}","{'weight': '5 barra', 'reps': '11'}","{'weight': '5 barra', 'reps': '11'}",,,,2024-01-30
+77,2024-01-30,9:12 p. m.,Jal,"{'weight': '2 barra', 'reps': '13'}","{'weight': '2 barra', 'reps': '20'}","{'weight': '2 barra', 'reps': '20'}",,,,,,2024-01-30
+78,2024-01-30,9:27 p. m.,Jalon pecho barra,"{'weight': '30 lb', 'reps': '11'}","{'weight': '30 lb', 'reps': '11'}","{'weight': '30 lb', 'reps': '12'}",,,,,,2024-01-30
+79,2024-01-30,9:39 p. m.,Jal,"{'weight': '4 barra', 'reps': '13'}","{'weight': '4 barra', 'reps': '14'}","{'weight': '4 barra', 'reps': '14'}",,,,,,2024-01-30
+80,2024-01-30,9:54 p. m.,Jal,"{'weight': '4 barra', 'reps': '13'}","{'weight': '4 barra', 'reps': '12'}","{'weight': '4 barra', 'reps': '13'}",,,,,,2024-01-30
+81,2024-01-30,10:03 p. m.,Curl bicep,"{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '10'}",,,,,,,2024-01-30
+82,2024-01-30,10:30 p. m.,Curl antebrazo,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}",,,,,,2024-01-30
+83,2024-02-01,9:12 p. m.,Press hombro,"{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '14'}",,,,,2024-02-01
+84,2024-02-01,9:25 p. m.,Laterales,"{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '11'}","{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '12'}",,,,,2024-02-01
+85,2024-02-01,9:47 p. m.,Frontal,"{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '14'}",,,,,2024-02-01
+86,2024-02-01,9:59 p. m.,Curl bicep,"{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '12'}",,,,,,2024-02-01
+87,2024-02-01,10:12 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '11'}","{'weight': '20 lb', 'reps': '12'}",,,,,,2024-02-01
+88,2024-02-01,10:21 p. m.,Curl bicep ,"{'weight': '15 lb', 'reps': '10'}","{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '11'}",,,,,,2024-02-01
+89,2024-02-02,8:51 p. m.,Bench press,"{'weight': '30 lb', 'reps': '18'}","{'weight': '40 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '11'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '11'}",,,,2024-02-02
+90,2024-02-02,9:04 p. m.,Bench press mancuerna,"{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '16'}",,,,,,2024-02-02
+91,2024-02-02,9:20 p. m.,Bench press inclinado,"{'weight': '30 lb', 'reps': '14'}","{'weight': '30 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '13'}",,,,,,2024-02-02
+92,2024-02-02,9:33 p. m.,Bench press inclinado mancuerna,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '16'}","{'weight': '15 lb', 'reps': '16'}",,,,,,2024-02-02
+93,2024-02-06,8:52 p. m.,Jal,"{'weight': '4 barra', 'reps': '15'}","{'weight': '5 barra', 'reps': '12'}","{'weight': '5 barra', 'reps': '12'}","{'weight': '5 barra', 'reps': '13'}",,,,,2024-02-06
+94,2024-02-06,9:13 p. m.,Jal,"{'weight': '3 barra', 'reps': '15'}","{'weight': '3 barra', 'reps': '16'}","{'weight': '3 barra', 'reps': '16'}","{'weight': '3 barra', 'reps': '16'}",,,,,2024-02-06
+95,2024-02-06,9:23 p. m.,Jal,"{'weight': '30 lb', 'reps': '10'}","{'weight': '30 lb', 'reps': '12'}","{'weight': '30 lb', 'reps': '11'}",,,,,,2024-02-06
+96,2024-02-06,9:47 p. m.,Jal,"{'weight': '4 barra', 'reps': '14'}","{'weight': '4 barra', 'reps': '16'}","{'weight': '4 barra', 'reps': '15'}",,,,,,2024-02-06
+97,2024-02-08,9:30 p. m.,Press hombro,"{'weight': '20 lb', 'reps': '17'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '12'}",,,,,2024-02-08
+98,2024-02-08,9:43 p. m.,Laterales,"{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '13'}",,,,,2024-02-08
+99,2024-02-08,10:00 p. m.,Frontal,"{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '15'}",,,,,2024-02-08
+100,2024-02-08,10:12 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '11'}",,,,,,2024-02-08
+101,2024-02-08,10:25 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '13'}",,,,,,2024-02-08
+102,2024-02-08,10:37 p. m.,Curl bicep ,"{'weight': '15 lb', 'reps': '12'}","{'weight': '15 lb', 'reps': '11'}","{'weight': '15 lb', 'reps': '12'}",,,,,,2024-02-08
+103,2024-02-09,9:15 p. m.,Bench press,"{'weight': '30 lb', 'reps': '18'}","{'weight': '40 lb', 'reps': '15'}","{'weight': '50 lb', 'reps': '11'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '11'}",,,,2024-02-09
+104,2024-02-09,9:29 p. m.,Bench press mancuerna,"{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '16'}",,,,,,2024-02-09
+105,2024-02-09,9:42 p. m.,Bench press inclinado,"{'weight': '30 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '13'}","{'weight': '30 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '15'}",,,,,2024-02-09
+106,2024-02-09,10:08 p. m.,Bench press inclinado mancuerna,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '17'}","{'weight': '15 lb', 'reps': '16'}",,,,,,2024-02-09
+107,2024-02-13,9:48 p. m.,Jalon pecho,"{'weight': '45 lb', 'reps': '20'}","{'weight': '60 lb', 'reps': '20'}","{'weight': '75 lb', 'reps': '14'}","{'weight': '75 lb', 'reps': '13'}","{'weight': '75 lb', 'reps': '13'}",,,,2024-02-13
+108,2024-02-13,10:01 p. m.,Jal,"{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '15'}",,,,,,2024-02-13
+109,2024-02-13,10:19 p. m.,Front lat pulldown,"{'weight': '90 lb', 'reps': '10'}","{'weight': '90 lb', 'reps': '11'}","{'weight': '90 lb', 'reps': '11'}",,,,,,2024-02-13
+110,2024-02-13,10:34 p. m.,Jalon espalda,"{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '14'}","{'weight': '60 lb', 'reps': '11'}",,,,,,2024-02-13
+111,2024-02-13,10:47 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '10'}","{'weight': '20 lb', 'reps': '10'}",,,,,,2024-02-13
+112,2024-02-15,8:43 p. m.,Press hombro,"{'weight': '20 lb', 'reps': '18'}","{'weight': '25 lb', 'reps': '14'}","{'weight': '25 lb', 'reps': '13'}","{'weight': '25 lb', 'reps': '13'}",,,,,2024-02-15
+113,2024-02-15,9:00 p. m.,Laterales,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '13'}",,,,,2024-02-15
+114,2024-02-15,9:25 p. m.,Frontal,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '12'}",,,,,2024-02-15
+115,2024-02-15,9:37 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '12'}",,,,,,2024-02-15
+116,2024-02-15,9:52 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '12'}",,,,,,2024-02-15
+117,2024-02-15,10:05 p. m.,Curl bicep ,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '15'}",,,,,,2024-02-15
+118,2024-02-16,9:32 p. m.,Press banca,"{'weight': '20 lb', 'reps': '20'}","{'weight': '50 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '13'}","{'weight': '50 lb', 'reps': '16'}",,,,,2024-02-16
+119,2024-02-16,9:45 p. m.,Press banca mancuerna,"{'weight': '20 lb', 'reps': '18'}","{'weight': '20 lb', 'reps': '17'}","{'weight': '20 lb', 'reps': '16'}",,,,,,2024-02-16
+120,2024-02-16,9:52 p. m.,Press banca inclinado,"{'weight': '30 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '14'}","{'weight': '30 lb', 'reps': '15'}",,,,,,2024-02-16
+121,2024-02-19,9:53 p. m.,Sentadilla m,"{'weight': '20 lb', 'reps': '20'}","{'weight': '30 lb', 'reps': '18'}","{'weight': '40 lb', 'reps': '17'}","{'weight': '50 lb', 'reps': '17'}","{'weight': '50 lb', 'reps': '17'}","{'weight': '50 lb', 'reps': '15'}",,,2024-02-19
+122,2024-02-19,10:17 p. m.,Press m,"{'weight': '80 lb', 'reps': '20'}","{'weight': '90 lb', 'reps': '18'}","{'weight': '90 lb', 'reps': '17'}","{'weight': '90 lb', 'reps': '19'}",,,,,2024-02-19
+123,2024-02-19,10:31 p. m.,Esquitibiales,"{'weight': '75 lb', 'reps': '17'}","{'weight': '75 lb', 'reps': '15'}","{'weight': '75 lb', 'reps': '16'}","{'weight': '75 lb', 'reps': '14'}",,,,,2024-02-19
+124,2024-02-19,10:49 p. m.,Peso muerto,"{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '12'}","{'weight': '50 lb', 'reps': '11'}","{'weight': '50 lb', 'reps': '13'}",,,,,2024-02-19
+125,2024-02-20,8:31 p. m.,Jal,"{'weight': '60 lb', 'reps': '20'}","{'weight': '75 lb', 'reps': '15'}","{'weight': '75 lb', 'reps': '15'}","{'weight': '75 lb', 'reps': '15'}",,,,,2024-02-20
+126,2024-02-20,8:42 p. m.,Jal,"{'weight': '60 lb', 'reps': '14'}","{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '15'}",,,,,,2024-02-20
+127,2024-02-20,8:56 p. m.,Dominadas,"{'weight': '90 lb', 'reps': '6'}","{'weight': '90 lb', 'reps': '6'}","{'weight': '90 lb', 'reps': '5'}",,,,,,2024-02-20
+128,2024-02-20,9:09 p. m.,Front lat pulldown,"{'weight': '90 lb', 'reps': '10'}","{'weight': '90 lb', 'reps': '11'}","{'weight': '90 lb', 'reps': '12'}",,,,,,2024-02-20
+129,2024-02-20,9:31 p. m.,Jal,"{'weight': '60 lb', 'reps': '13'}","{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '16'}",,,,,,2024-02-20
+130,2024-02-20,9:47 p. m.,Curl predicador,"{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '12'}","{'weight': '20 lb', 'reps': '3'}",,,,,,2024-02-20
+131,2024-02-22,9:12 p. m.,Press hombro,"{'weight': '20 lb', 'reps': '20'}","{'weight': '25 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '14'}","{'weight': '25 lb', 'reps': '15'}",,,,2024-02-22
+132,2024-02-22,9:42 p. m.,Laterales,"{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}",,,,,2024-02-22
+133,2024-02-22,9:57 p. m.,Frontal,"{'weight': '15 lb', 'reps': '16'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '14'}",,,,,2024-02-22
+134,2024-02-22,10:06 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '13'}",,,,,,2024-02-22
+135,2024-02-22,10:18 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '13'}","{'weight': '20 lb', 'reps': '14'}",,,,,,2024-02-22
+136,2024-02-22,10:32 p. m.,Curl bicep ,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '15'}",,,,,,2024-02-22
+137,2024-02-23,8:32 p. m.,Press banca,"{'weight': '20 lb', 'reps': '22'}","{'weight': '40 lb', 'reps': '18'}","{'weight': '50 lb', 'reps': '16'}","{'weight': '50 lb', 'reps': '15'}","{'weight': '50 lb', 'reps': '15'}",,,,2024-02-23
+138,2024-02-23,8:46 p. m.,Press banca mancuerna,"{'weight': '25 lb', 'reps': '16'}","{'weight': '25 lb', 'reps': '16'}","{'weight': '25 lb', 'reps': '14'}",,,,,,2024-02-23
+139,2024-02-23,9:01 p. m.,Press banca inclinado,"{'weight': '30 lb', 'reps': '16'}","{'weight': '30 lb', 'reps': '15'}","{'weight': '30 lb', 'reps': '14'}",,,,,,2024-02-23
+140,2024-02-23,9:17 p. m.,Press banca inclinado mancuerna,"{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '15'}",,,,,,2024-02-23
+141,2024-02-23,9:31 p. m.,Mariposas,"{'weight': '90 lb', 'reps': '12'}","{'weight': '90 lb', 'reps': '11'}","{'weight': '90 lb', 'reps': '11'}",,,,,,2024-02-23
+142,2024-02-23,9:39 p. m.,Pushdown tricep,"{'weight': '60 lb', 'reps': '17'}","{'weight': '60 lb', 'reps': '14'}","{'weight': '60 lb', 'reps': '13'}",,,,,,2024-02-23
+143,2024-02-23,9:47 p. m.,Overhead tricep extension,"{'weight': '50 lb', 'reps': '11'}","{'weight': '50 lb', 'reps': '10'}","{'weight': '50 lb', 'reps': '10'}",,,,,,2024-02-23
+144,2024-02-26,9:06 p. m.,Sentadilla m,"{'weight': '40 lb', 'reps': '18'}","{'weight': '50 lb', 'reps': '18'}","{'weight': '50 lb', 'reps': '19'}","{'weight': '50 lb', 'reps': '17'}",,,,,2024-02-26
+145,2024-02-26,9:28 p. m.,Press m,"{'weight': '90 lb', 'reps': '21'}","{'weight': '100 lb', 'reps': '20'}","{'weight': '110 lb', 'reps': '19'}","{'weight': '130 lb', 'reps': '17'}","{'weight': '130 lb', 'reps': '17'}","{'weight': '130 lb', 'reps': '18'}",,,2024-02-26
+146,2024-02-26,9:47 p. m.,Esquitibiales,"{'weight': '75 lb', 'reps': '18'}","{'weight': '90 lb', 'reps': '15'}","{'weight': '90 lb', 'reps': '16'}","{'weight': '90 lb', 'reps': '17'}",,,,,2024-02-26
+147,2024-02-26,10:13 p. m.,Peso muerto,"{'weight': '50 lb', 'reps': '14'}","{'weight': '50 lb', 'reps': '13'}","{'weight': '50 lb', 'reps': '13'}","{'weight': '50 lb', 'reps': '14'}",,,,,2024-02-26
+148,2024-02-26,10:24 p. m.,Leg curl,"{'weight': '45 lb', 'reps': '14'}","{'weight': '45 lb', 'reps': '15'}","{'weight': '45 lb', 'reps': '15'}",,,,,,2024-02-26
+149,2024-02-27,9:14 p. m.,Jal,"{'weight': '75 lb', 'reps': '17'}","{'weight': '75 lb', 'reps': '16'}","{'weight': '75 lb', 'reps': '15'}",,,,,,2024-02-27
+150,2024-02-27,9:27 p. m.,Jal,"{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '15'}",,,,,,2024-02-27
+151,2024-02-27,9:40 p. m.,Dominadas,"{'weight': '90 lb', 'reps': '6'}","{'weight': '90 lb', 'reps': '6'}","{'weight': '90 lb', 'reps': '6'}",,,,,,2024-02-27
+152,2024-02-27,9:53 p. m.,Front lat pulldown,"{'weight': '90 lb', 'reps': '13'}","{'weight': '90 lb', 'reps': '12'}","{'weight': '90 lb', 'reps': '12'}",,,,,,2024-02-27
+153,2024-02-27,10:04 p. m.,Jal,"{'weight': '60 lb', 'reps': '15'}","{'weight': '60 lb', 'reps': '14'}","{'weight': '60 lb', 'reps': '14'}",,,,,,2024-02-27
+154,2024-02-29,9:22 p. m.,Press hombro,"{'weight': '25 lb', 'reps': '14'}","{'weight': '25 lb', 'reps': '15'}","{'weight': '25 lb', 'reps': '13'}","{'weight': '25 lb', 'reps': '13'}",,,,,2024-02-29
+155,2024-02-29,9:39 p. m.,Laterales,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '13'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '13'}",,,,,2024-02-29
+156,2024-02-29,9:57 p. m.,Frontal,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '14'}","{'weight': '15 lb', 'reps': '14'}",,,,,2024-02-29
+157,2024-02-29,10:11 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '13'}",,,,,,2024-02-29
+158,2024-02-29,10:25 p. m.,Curl bicep ,"{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '14'}","{'weight': '20 lb', 'reps': '14'}",,,,,,2024-02-29
+159,2024-02-29,10:37 p. m.,Curl bicep ,"{'weight': '15 lb', 'reps': '15'}","{'weight': '15 lb', 'reps': '16'}","{'weight': '15 lb', 'reps': '15'}",,,,,,2024-02-29
+160,2024-03-01,8:51 p. m.,Press banca,"{'weight': '20 lb', 'reps': '24'}","{'weight': '50 lb', 'reps': '17'}","{'weight': '60 lb', 'reps': '14'}","{'weight': '60 lb', 'reps': '14'}","{'weight': '60 lb', 'reps': '13'}",,,,2024-03-01
+161,2024-03-01,9:05 p. m.,Press banca mancuerna,"{'weight': '25 lb', 'reps': '17'}","{'weight': '25 lb', 'reps': '17'}","{'weight': '25 lb', 'reps': '17'}",,,,,,2024-03-01
+162,2024-03-01,9:21 p. m.,Press banca inclinado,"{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '13'}","{'weight': '40 lb', 'reps': '12'}",,,,,,2024-03-01
+163,2024-03-01,9:34 p. m.,Press banca inclinado mancuerna,"{'weight': '20 lb', 'reps': '16'}","{'weight': '20 lb', 'reps': '15'}","{'weight': '20 lb', 'reps': '15'}",,,,,,2024-03-01
+164,2024-03-01,9:47 p. m.,Mariposas,"{'weight': '90 lb', 'reps': '11'}","{'weight': '90 lb', 'reps': '10'}","{'weight': '90 lb', 'reps': '10'}",,,,,,2024-03-01
