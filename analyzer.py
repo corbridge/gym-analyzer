@@ -19,7 +19,7 @@ class GymAnalyzer:
         num_serie = 0
         finished = False
         last_exercise = None
-        with open("gym-notes-1-mar.txt","r", encoding="utf8")as file:
+        with open("gym-notes-17-mar.txt","r", encoding="utf8")as file:
             lines = file.readlines()
             for i in range(len(lines)):
                 if re.search(self.exercise_regex, lines[i - 1]) and re.search(self.main_regex, lines[i]):
@@ -29,7 +29,7 @@ class GymAnalyzer:
                     try:
                         parsed_day_exercise = list(re.search(self.main_regex, lines[i]).groups())
                     except AttributeError:
-                        parsed_day_exercise = list(re.search(self.main_regex, lines[i]))
+                          parsed_day_exercise = list(re.search(self.main_regex, lines[i]))
                     day_data_dict = dict(zip(day_data, parsed_day_exercise))
 
                 elif re.search(self.exercise_regex, lines[i]):
@@ -40,7 +40,7 @@ class GymAnalyzer:
                     reps_data_dict = dict(zip(reps_data, parsed_reps))
                     day_data_dict[f'Serie {num_serie}'] = reps_data_dict
                     num_serie += 1
-                
+        day_data_list.pop(0)
         self._convert_date_format(day_data_list)
         return day_data_list
     
@@ -56,9 +56,7 @@ class GymAnalyzer:
 
     def plot_calendar(self, data):
         df = self._make_df(data)
-        print(df)
         events = pd.Series(0.5, index=df['Datetime'])
-        print(events)
         calmap.calendarplot(events)
         plt.show()
 
