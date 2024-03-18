@@ -1,53 +1,53 @@
 13/12/2023, 7:26 p. m. - Cornelio: Bench press
-0 lb - 20 Rep
-10 lb - 15 Rep
-15 lb - 16 Rep
-20 lb - 15 Rep
-25 lb - 15 Rep
-30 lb - 12 Rep
-30 lb -  13 Rep
-30 lb - 16 Rep
+0 lb - 20 
+10 lb - 15 
+15 lb - 16 
+20 lb - 15 
+25 lb - 15 
+30 lb - 12 
+30 lb -  13 
+30 lb - 16 
 13/12/2023, 7:46 p. m. - Cornelio: Bench press - mancuerna
-15 lb - 20 Rep
-20 lb - 15 Rep
-20 lb - 15 Rep
-20 lb - 15 Rep
+15 lb - 20 
+20 lb - 15 
+20 lb - 15 
+20 lb - 15 
 13/12/2023, 8:01 p. m. - Cornelio: Bench press inclinado
-10 lb - 15 Rep
-20 lb - 10 Rep
-20 lb - 9 Rep
-20 lb - 8 Rep
+10 lb - 15 
+20 lb - 10 
+20 lb - 9 
+20 lb - 8 
 13/12/2023, 8:12 p. m. - Cornelio: Butterfly
-2 barra - 21 rep
-4 barra - 12 rep
-4 barra - 12 Rep
-4 barra - 10 rep
+2 barra - 21 
+4 barra - 12 
+4 barra - 12 
+4 barra - 10 
 13/12/2023, 8:22 p. m. - Cornelio: Tricep pushdowns
-2 barra - 15 reps
-3 barra - 13 reps
-3 barra - 12 reps
-3 barra - 12 reps
+2 barra - 15 
+3 barra - 13 
+3 barra - 12 
+3 barra - 12 
 13/12/2023, 8:30 p. m. - Cornelio: Overhead dumbell extension
-25 lb - 11 reps
-25 lb - 12 reps
-25 lb - 11 reps
+25 lb - 11 
+25 lb - 12 
+25 lb - 11 
 13/12/2023, 8:39 p. m. - Cornelio: Overhead rope extension
-2 barras - 11 reps
-3 barras - 12 reps
-3 barras - 10 reps
-3 barras - 9 reps
+2 barras - 11 
+3 barras - 12 
+3 barras - 10 
+3 barras - 9 
 15/12/2023, 8:35 p. m. - Cornelio: Jalon pecho
-3 barras - 12 reps
-4 barras - 12 reps
-4 barras - 10 reps
-4 barras - 10 reps
+3 barras - 12 
+4 barras - 12 
+4 barras - 10 
+4 barras - 10 
 15/12/2023, 8:51 p. m. - Cornelio: Jalon pecho horizontal ?
-1 barra - 12 reps
-2 barra - 11 reps
-2 barra - 12 reps
-2 barra - 16 reps
-3 barra - 10 reps
-3 barra - 10 reps
+1 barra - 12 
+2 barra - 11 
+2 barra - 12 
+2 barra - 16 
+3 barra - 10 
+3 barra - 10 
 15/12/2023, 9:10 p. m. - Cornelio: Jalo pecho horizontal maquina 
 2 barra - 12
 2 barra - 12
@@ -112,13 +112,13 @@
 15 lb - 11
 15 lb - 12 (?)
 20/12/2023, 6:05 p. m. - Cornelio: Bench press
-20 lb - 15 Rep
-20 lb - 15 Rep
-20 lb - 16 Rep
-30 lb - 15 Rep
-40 lb - 12 Rep
-40 lb - 13 Rep
-40 lb - 10 Rep
+20 lb - 15 
+20 lb - 15 
+20 lb - 16 
+30 lb - 15 
+40 lb - 12 
+40 lb - 13 
+40 lb - 10 
 20/12/2023, 6:23 p. m. - Cornelio: Bench press mancuerna
 15 lb - 17
 20 lb - 17
@@ -188,11 +188,11 @@
 15 lb - 14
 15 lb - 12
 28/12/2023, 5:35 p. m. - Cornelio: Bench press
-20 lb - 17 Rep
-30 lb - 14 Rep
-40 lb - 12 Rep
-40 lb - 12 Rep
-40 lb - 13 Rep
+20 lb - 17 
+30 lb - 14 
+40 lb - 12 
+40 lb - 12 
+40 lb - 13 
 28/12/2023, 5:49 p. m. - Cornelio: Bench press mancuerna 
 20 lb - 14
 20 lb - 15
@@ -225,15 +225,15 @@
 4 barra - 8
 4 barra - 7
 30/12/2023, 12:10 p. m. - Cornelio: Jalon pecho (no mismo pedo)
-3 barras - 16 reps
-4 barras - 11 reps
-4 barras - 14 reps
-4 barras - 13 reps
+3 barras - 16 
+4 barras - 11 
+4 barras - 14 
+4 barras - 13 
 30/12/2023, 12:32 p. m. - Cornelio: Jalon pecho hor (no mismo peso)
-1 barra - 14,15
-1 barra - 14,15
-1 barra - 15,15
-1 barra - 15,15
+1 barra - 14
+1 barra - 14
+1 barra - 15
+1 barra - 15
 30/12/2023, 12:47 p. m. - Cornelio: Jalon pecho hor ambos
 2 barra - 12
 2 barra - 15
@@ -261,10 +261,10 @@
 85 lb - 10
 85 lb - 11
 5/1/2024, 9:10 p. m. - Cornelio: Jalon pecho hor
-25 lb - 15,15
-25 lb - 15,14
-25 lb - 13,13
-25 lb - 13,13
+25 lb - 15
+25 lb - 15
+25 lb - 13
+25 lb - 13
 5/1/2024, 9:32 p. m. - Cornelio: Jalon pecho hor barra
 40 lb - 13
 40 lb - 14
@@ -287,9 +287,9 @@
 20 lb - 11
 20 lb - 11
 5/1/2024, 10:30 p. m. - Cornelio: Curl mancuerna #3
-20 lb - 8,8
-20 lb - 9,9
-20 lb - 9,9
+20 lb - 8
+20 lb - 9
+20 lb - 9
 40 lb - 6
 8/1/2024, 7:19 p. m. - Cornelio: Sentadilla maquina
 30 lb - 16
